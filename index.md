@@ -15,10 +15,10 @@ America; Cambodia; China; Hong Kong; Japan; Macau; Malaysia; Mauritius; Singapor
 
 ## Emulator.
 
-- PC. VirtualBox (Windows / Linux / OS X);
-- Arcade. MAME (Multi);
-- Console. NNNesterJ (FC); Dolphin (GC / Wii); Project64 (N64); pSX (PS); PCSX2 (PS2); Snes9X (SFC);
-- Handheld. Citra (3DS); VisualBoyAdvance (GB / GBA); DeSmuME (NDS); PPSSPP (PSP); Cemu (WIIU);
+PC. VirtualBox (Windows / Linux / OS X);
+Arcade. MAME (Multi);
+Console. NNNesterJ (FC); Dolphin (GC / Wii); Project64 (N64); pSX (PS); PCSX2 (PS2); Snes9X (SFC);
+Handheld. Citra (3DS); VisualBoyAdvance (GB / GBA); DeSmuME (NDS); PPSSPP (PSP); Cemu (WIIU);
 
 ## Comic.
 
