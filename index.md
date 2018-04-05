@@ -1,6 +1,10 @@
 # Johann Liszt
 [LinkedIn](https://www.linkedin.com/in/paint1024/)
 
+## Todo.
+
+Python; React or Vue.js; CS50;
+
 ## Program.
 
 Web Development; Machine Learning; Algorithm;
