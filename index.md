@@ -3,7 +3,7 @@
 
 ## Todo.
 
-Python; React or Vue.js; CS50;
+Python; Vue.js or ES6; React; CS50;
 
 ## Program.
 
