@@ -3,7 +3,7 @@
 
 ## Todo.
 
-Python; Vue.js or ES6; React; CS50;
+Python; Vue.js; ES6; LeetCode; CS50;
 
 ## Program.
 
