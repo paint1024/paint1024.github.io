@@ -1,5 +1,4 @@
 # Johann Liszt
-[Johann Liszt](http://lmntology.com/IMX_687342339.png)
 [LinkedIn](https://www.linkedin.com/in/paint1024/)
 
 ## Todo.
