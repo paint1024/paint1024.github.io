@@ -3,7 +3,8 @@
 
 ## Todo.
 
-Python; Vue.js; ES6; LeetCode; CS50;
+In Progress. Python; LeetCode; CS50;
+Not Started. Vue.js; ES6;
 
 ## Program.
 
