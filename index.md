@@ -23,7 +23,7 @@ Live.
  [Al Jazeera;](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
  [FRANCE 24;](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
  [DW;](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
-Newspaper.
+Press.
  [Taipei Times;](http://www.taipeitimes.com)
  [The New York Times;](https://www.nytimes.com)
 
