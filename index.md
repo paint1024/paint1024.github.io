@@ -14,6 +14,17 @@ Web Development; Machine Learning; Algorithm;
 
 American Crime; American Horror Story; Band of Brothers; Black Mirror; Fringe; Game of Thrones; Life on Mars; Mindhunter; Stranger Things; The Strain; The Walking Dead; The X-Files; Westworld;
 
+## News.
+
+Live.
+ [Al Jazeera;](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
+ [FRANCE 24;](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
+ [DW;](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
+
+Newspaper.
+ [Taipei Times;](http://www.taipeitimes.com)
+ [The New York Times;](https://www.nytimes.com)
+
 ## Journey.
 
 America; Cambodia; China; Hong Kong; Japan; Macau; Malaysia; Mauritius; Singapore; South Korea; Thailand; Vietnam;
