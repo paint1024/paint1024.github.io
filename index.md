@@ -3,8 +3,11 @@
 
 ## Todo.
 
-In Progress. Python; LeetCode; CS50;
-Not Started. Vue.js; ES6;
+In Progress.
+ [Python;](https://www.udemy.com/complete-python-bootcamp/)
+ [LeetCode;](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/sortbyacceptance.html)
+ [CS50;](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+Not Yet Started. Vue.js; ES6;
 
 ## Program.
 
