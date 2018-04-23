@@ -8,15 +8,25 @@ In Progress.
  [Python;](https://www.udemy.com/complete-python-bootcamp/)
  [LeetCode;](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/sortbyacceptance.html)
  
-Not Yet Started. ES6/7/8;
+Not Yet Started.
+ ES6/7/8;
+ [Nand2Tetris;](http://nand2tetris.org)
 
 ## Program.
 
 Web Development; Machine Learning; Algorithm;
 
+## Journey.
+
+America; Cambodia; China; Hong Kong; Japan; Macau; Malaysia; Mauritius; Singapore; South Korea; Thailand; Vietnam;
+
 ## Series.
 
 American Crime; American Horror Story; Band of Brothers; Black Mirror; Fringe; Game of Thrones; Life on Mars; Mindhunter; Stranger Things; The Strain; The Walking Dead; The X-Files; Westworld;
+
+## Comic.
+
+My Top 3. JoJo's Bizarre Adventure; HUNTER×HUNTER; Legend of the Galactic Heroes;
 
 ## News.
 
@@ -28,17 +38,9 @@ Press.
  [Taipei Times;](http://www.taipeitimes.com)
  [The New York Times;](https://www.nytimes.com)
 
-## Journey.
-
-America; Cambodia; China; Hong Kong; Japan; Macau; Malaysia; Mauritius; Singapore; South Korea; Thailand; Vietnam;
-
 ## Emulator.
 
 PC. VirtualBox (Windows / Linux / OS X);
 Arcade. MAME (Multi);
 Console. NNNesterJ (FC); Dolphin (GC / Wii); Project64 (N64); pSX (PS); PCSX2 (PS2); Snes9X (SFC);
 Handheld. Citra (3DS); VisualBoyAdvance (GB / GBA); DeSmuME (NDS); PPSSPP (PSP); Cemu (WIIU);
-
-## Comic.
-
-Top 5. JoJo's Bizarre Adventure; HUNTER×HUNTER; Legend of the Galactic Heroes; MONSTER; ONE PIECE;
