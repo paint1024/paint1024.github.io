@@ -26,7 +26,11 @@ American Crime; American Horror Story; Band of Brothers; Black Mirror; Fringe; G
 
 ## Comic.
 
-My Top 3. JoJo's Bizarre Adventure; HUNTER×HUNTER; Legend of the Galactic Heroes;
+My Top 4.
+ JoJo's Bizarre Adventure;
+ HUNTER×HUNTER;
+ Legend of the Galactic Heroes;
+ Monster;
 
 ## News.
 
@@ -34,13 +38,30 @@ Live.
  [Al Jazeera;](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
  [FRANCE 24;](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
  [DW;](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
+ 
 Press.
  [Taipei Times;](http://www.taipeitimes.com)
  [The New York Times;](https://www.nytimes.com)
 
 ## Emulator.
 
-PC. VirtualBox (Windows / Linux / OS X);
-Arcade. MAME (Multi);
-Console. NNNesterJ (FC); Dolphin (GC / Wii); Project64 (N64); pSX (PS); PCSX2 (PS2); Snes9X (SFC);
-Handheld. Citra (3DS); VisualBoyAdvance (GB / GBA); DeSmuME (NDS); PPSSPP (PSP); Cemu (WIIU);
+PC.
+ VirtualBox (Windows / Linux / OS X);
+
+Arcade.
+ MAME (Multi);
+
+Console.
+ NNNesterJ (FC);
+ Dolphin (GC / Wii);
+ Project64 (N64);
+ pSX (PS);
+ PCSX2 (PS2);
+ Snes9X (SFC);
+
+Handheld.
+ Citra (3DS);
+ VisualBoyAdvance (GB / GBA);
+ DeSmuME (NDS);
+ PPSSPP (PSP);
+ Cemu (WIIU);
