@@ -4,11 +4,11 @@
 ## Todo.
 
 In Progress.
- [Python;](https://www.udemy.com/complete-python-bootcamp/)
  [CS50;](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+ [Python;](https://www.udemy.com/complete-python-bootcamp/)
  [LeetCode;](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/sortbyacceptance.html)
  
-Not Yet Started. ES6;
+Not Yet Started. ES6/7/8;
 
 ## Program.
 
@@ -41,4 +41,4 @@ Handheld. Citra (3DS); VisualBoyAdvance (GB / GBA); DeSmuME (NDS); PPSSPP (PSP);
 
 ## Comic.
 
-JoJo's Bizarre Adventure; HUNTER×HUNTER; Legend of the Galactic Heroes; MONSTER; ONE PIECE;
+Top 5. JoJo's Bizarre Adventure; HUNTER×HUNTER; Legend of the Galactic Heroes; MONSTER; ONE PIECE;
