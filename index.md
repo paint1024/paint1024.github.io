@@ -7,7 +7,6 @@ In Progress.
  [CS50;](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
  [Python;](https://www.udemy.com/complete-python-bootcamp/)
  [LeetCode;](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/sortbyacceptance.html)
- 
 Not Yet Started.
  ES6/7/8;
  [Nand2Tetris;](http://nand2tetris.org)
@@ -26,7 +25,7 @@ American Crime; American Horror Story; Band of Brothers; Black Mirror; Fringe; G
 
 ## Comic.
 
-My Top 4.
+My Top.
  JoJo's Bizarre Adventure;
  HUNTER×HUNTER;
  Legend of the Galactic Heroes;
@@ -38,7 +37,6 @@ Live.
  [Al Jazeera;](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
  [FRANCE 24;](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
  [DW;](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
- 
 Press.
  [Taipei Times;](http://www.taipeitimes.com)
  [The New York Times;](https://www.nytimes.com)
@@ -47,10 +45,8 @@ Press.
 
 PC.
  VirtualBox (Windows / Linux / OS X);
-
 Arcade.
  MAME (Multi);
-
 Console.
  NNNesterJ (FC);
  Dolphin (GC / Wii);
@@ -58,7 +54,6 @@ Console.
  pSX (PS);
  PCSX2 (PS2);
  Snes9X (SFC);
-
 Handheld.
  Citra (3DS);
  VisualBoyAdvance (GB / GBA);
