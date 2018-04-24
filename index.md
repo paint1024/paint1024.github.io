@@ -1,16 +1,6 @@
 # Johann Liszt
 [LinkedIn](https://www.linkedin.com/in/paint1024/)
 
-## Todo.
-
-In Progress.
- [CS50;](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
- [Python;](https://www.udemy.com/complete-python-bootcamp/)
- [LeetCode;](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/sortbyacceptance.html)
-Not Yet Started.
- ES6/7/8;
- [Nand2Tetris;](http://nand2tetris.org)
-
 ## Program.
 
 Web Development; Machine Learning; Algorithm;
