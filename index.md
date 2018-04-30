@@ -3,7 +3,7 @@
 
 ## Program.
 
-Web Development; Machine Learning; Algorithm;
+Problem Solving; Web Development; Machine Learning; Algorithm;
 
 ## Journey.
 
