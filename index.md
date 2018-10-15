@@ -11,7 +11,7 @@ America; Cambodia; China; Hong Kong; Japan; Macau; Malaysia; Mauritius; Singapor
 
 ## Series.
 
-American Crime; American Horror Story; Band of Brothers; Black Mirror; Black Sails; Breaking Bad; Fringe; Game of Thrones; Life on Mars; Mars; Mindhunter; Penny Dreadful; Stranger Things; The Expanse; The Strain; The Walking Dead; The X-Files; Westworld;
+American Crime; American Horror Story; Band of Brothers; Black Mirror; Black Sails; Breaking Bad; Fringe; Game of Thrones; Life on Mars; Mars; Mindhunter; Penny Dreadful; Prison BreakStranger Things; The Expanse; The Strain; The Walking Dead; The X-Files; Westworld;
 
 ## Comic.
 
