@@ -19,6 +19,8 @@ My Top.
  JoJo's Bizarre Adventure;
  HUNTER×HUNTER;
  Legend of the Galactic Heroes;
+ The Ravages of Time;
+ Death Note;
  Monster;
 
 ## News.
