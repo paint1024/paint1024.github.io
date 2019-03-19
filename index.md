@@ -30,6 +30,7 @@ Live.
  [FRANCE 24;](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
  [DW;](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
 Press.
+ [The China Post;](https://chinapost.nownews.com)
  [Taipei Times;](http://www.taipeitimes.com)
  [The New York Times;](https://www.nytimes.com)
 
