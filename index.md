@@ -11,17 +11,38 @@ America; Cambodia; China; Hong Kong; Japan; Macau; Malaysia; Mauritius; Singapor
 
 ## Series.
 
-American Crime; American Horror Story; Band of Brothers; Black Mirror; Breaking Bad; Fringe; Game of Thrones; Life on Mars; Mars; Mindhunter; Penny Dreadful; Prison Break; Stranger Things; The Expanse; The Strain; The Walking Dead; The X-Files; Westworld;
+Drama.
+ American Crime;
+ American Horror Story;
+ Band of Brothers;
+ Black Mirror;
+ Breaking Bad;
+ Fringe;
+ Game of Thrones;
+ Life on Mars;
+ Mars;
+ Mindhunter;
+ Penny Dreadful;
+ Prison Break;
+ Stranger Things;
+ The Expanse;
+ The Strain;
+ The Walking Dead;
+ The X-Files;
+ Westworld;
 
-## Comic.
-
-My Top.
- JoJo's Bizarre Adventure;
- HUNTER×HUNTER;
- Legend of the Galactic Heroes;
- The Ravages of Time;
+Anime.
+ Attack on Titan;
  Death Note;
+ Dragon Ball;
+ Fushigi Yuugi;
+ GANTZ;
+ HUNTER×HUNTER;
+ JoJo's Bizarre Adventure;
+ Legend of the Galactic Heroes;
  Monster;
+ The Ravages of Time;
+ Yu Yu Hakusho;
 
 ## News.
 
