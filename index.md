@@ -41,6 +41,8 @@ Anime.
  JoJo's Bizarre Adventure;
  Legend of the Galactic Heroes;
  Monster;
+ Neon Genesis Evangelion;
+ The Drifting Classroom;
  The Ravages of Time;
  Yu Yu Hakusho;
 
