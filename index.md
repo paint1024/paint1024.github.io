@@ -52,6 +52,7 @@ Live.
  [Al Jazeera;](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
  [FRANCE 24;](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
  [DW;](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
+
 Press.
  [The China Post;](https://chinapost.nownews.com)
  [Taipei Times;](http://www.taipeitimes.com)
@@ -61,15 +62,19 @@ Press.
 
 PC.
  VirtualBox (Windows / Linux / OS X);
+ 
 Arcade.
  MAME (Multi);
+ 
 Console.
  NNNesterJ (FC);
  Dolphin (GC / Wii);
  Project64 (N64);
  pSX (PS);
  PCSX2 (PS2);
+ RPCS3 (PS3);
  Snes9X (SFC);
+ 
 Handheld.
  Citra (3DS);
  VisualBoyAdvance (GB / GBA);
