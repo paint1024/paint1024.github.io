@@ -1,7 +1,7 @@
 # Johann Liszt
 [LinkedIn](https://www.linkedin.com/in/paint1024/)
 
-## Program.
+## Code.
 
 Problem Solving; Web Development; Machine Learning; Algorithm;
 
@@ -52,9 +52,10 @@ Anime.
 ## News.
 
 Live.
- [Al Jazeera;](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
- [FRANCE 24;](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
  [DW;](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
+ [FRANCE 24;](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg) 
+ [Al Jazeera;](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
+ [RT;](https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg)
 
 Press.
  [The China Post;](https://chinapost.nownews.com)
@@ -64,6 +65,7 @@ Press.
 ## Emulator.
 
 PC.
+ Boot Camp / Parallels (OS X)
  VirtualBox (Windows / Linux / OS X);
  
 Arcade.
