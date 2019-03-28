@@ -65,7 +65,7 @@ Press.
 ## Emulator.
 
 PC.
- Boot Camp / Parallels (OS X)
+ Boot Camp / Parallels (OS X);
  VirtualBox (Windows / Linux / OS X);
  
 Arcade.
