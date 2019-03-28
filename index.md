@@ -39,9 +39,12 @@ Anime.
  GANTZ;
  HUNTER×HUNTER;
  JoJo's Bizarre Adventure;
+ KonoSuba: God's Blessing on This Wonderful World!;
  Legend of the Galactic Heroes;
  Monster;
  Neon Genesis Evangelion;
+ Re:Zero − Starting Life in Another World;
+ SLAM DUNK;
  The Drifting Classroom;
  The Ravages of Time;
  Yu Yu Hakusho;
@@ -84,8 +87,9 @@ Handheld.
 
 ## Film
 
-My Top.
+My Top 5.
  The Shawshank Redemption;
  The Butterfly Effect;
+ Inception;
  Life is Beautiful;
  The Godfather;
