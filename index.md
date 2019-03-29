@@ -42,6 +42,7 @@ Anime.
  KonoSuba: God's Blessing on This Wonderful World!;
  Legend of the Galactic Heroes;
  Monster;
+ Naruto;
  Neon Genesis Evangelion;
  Re:Zero − Starting Life in Another World;
  SLAM DUNK;
