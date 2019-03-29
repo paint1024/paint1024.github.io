@@ -52,6 +52,13 @@ Anime.
  The Ravages of Time;
  Yu Yu Hakusho;
 
+Film. (My Top 5)
+ The Shawshank Redemption;
+ The Butterfly Effect;
+ Inception;
+ Life is Beautiful;
+ The Godfather;
+
 ## News.
 
 Live.
@@ -89,12 +96,3 @@ Handheld.
  DeSmuME (NDS);
  PPSSPP (PSP);
  Cemu (WIIU);
-
-## Film
-
-My Top 5.
- The Shawshank Redemption;
- The Butterfly Effect;
- Inception;
- Life is Beautiful;
- The Godfather;
