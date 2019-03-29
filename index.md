@@ -22,6 +22,7 @@ Drama.
  Life on Mars;
  Mars;
  Mindhunter;
+ Nirvana in Fire;
  Penny Dreadful;
  Prison Break;
  Stranger Things;
@@ -44,6 +45,7 @@ Anime.
  Monster;
  Naruto;
  Neon Genesis Evangelion;
+ ONE PIECE;
  Re:Zero − Starting Life in Another World;
  SLAM DUNK;
  The Drifting Classroom;
