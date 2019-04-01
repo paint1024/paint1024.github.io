@@ -30,6 +30,7 @@ Drama.
  The Strain;
  The Walking Dead;
  The X-Files;
+ Wake Up
  Westworld;
 
 Anime.
