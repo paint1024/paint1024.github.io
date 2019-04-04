@@ -3,7 +3,7 @@
 
 ## Code.
 
-Problem Solving; Web Development; Machine Learning; Algorithm;
+Problem Solving; Web Development; Algorithm; Machine Learning;
 
 ## Journey.
 
@@ -28,6 +28,7 @@ Drama.
  Stranger Things;
  The Expanse;
  The Strain;
+ The Twilight Zone;
  The Walking Dead;
  The X-Files;
  Wake Up
