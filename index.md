@@ -3,7 +3,7 @@
 
 ## Code.
 
-Problem Solving; Web Development; Algorithm; Machine Learning;
+Communication; Problem Solving; Web Development; Algorithm; Machine Learning;
 
 ## Journey.
 
