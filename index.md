@@ -78,6 +78,7 @@ Press.
 
 PC.
  Boot Camp / Parallels (OS X);
+ DOSBox (DOS);
  VirtualBox (Windows / Linux / OS X);
  
 Arcade.
