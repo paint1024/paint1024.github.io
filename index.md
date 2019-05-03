@@ -9,6 +9,23 @@ Communication; Problem Solving; Web Development; Algorithm; Machine Learning;
 
 America; Cambodia; China; Hong Kong; Japan; Macau; Malaysia; Mauritius; Singapore; South Korea; Thailand; Vietnam;
 
+## Issue.
+
+Democracy; Education; Environment; Health; Human Rights;
+
+## News.
+
+Live.
+ [DW;](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
+ [FRANCE 24;](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg) 
+ [Al Jazeera;](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
+ [RT;](https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg)
+
+Press.
+ [The China Post;](https://chinapost.nownews.com)
+ [Taipei Times;](http://www.taipeitimes.com)
+ [The New York Times;](https://www.nytimes.com)
+
 ## Series.
 
 Drama.
@@ -60,19 +77,6 @@ Film. (My Top 5)
  Inception;
  Life is Beautiful;
  The Godfather;
-
-## News.
-
-Live.
- [DW;](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
- [FRANCE 24;](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg) 
- [Al Jazeera;](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
- [RT;](https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg)
-
-Press.
- [The China Post;](https://chinapost.nownews.com)
- [Taipei Times;](http://www.taipeitimes.com)
- [The New York Times;](https://www.nytimes.com)
 
 ## Emulator.
 
