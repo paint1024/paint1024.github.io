@@ -5,7 +5,7 @@
 
 Communication; Problem Solving; Web Development; Algorithm; Machine Learning;
 
-## Journey.
+## Tour.
 
 America; Cambodia; China; Hong Kong; Japan; Macau; Malaysia; Mauritius; Singapore; South Korea; Thailand; Vietnam;
 
