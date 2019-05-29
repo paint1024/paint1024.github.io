@@ -46,6 +46,7 @@ Drama.
  The Expanse;
  The Strain;
  The Twilight Zone;
+ The Umbrella Academy;
  The Walking Dead;
  The X-Files;
  Wake Up;
