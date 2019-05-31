@@ -44,6 +44,7 @@ Drama.
  Prison Break;
  Stranger Things;
  The Expanse;
+ The Haunting of Hill House;
  The Strain;
  The Twilight Zone;
  The Umbrella Academy;
