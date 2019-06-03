@@ -36,6 +36,7 @@ Drama.
  Breaking Bad;
  Fringe;
  Game of Thrones;
+ Kingdom;
  Life on Mars;
  Mars;
  Mindhunter;
