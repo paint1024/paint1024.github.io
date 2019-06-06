@@ -34,6 +34,7 @@ Drama.
  Band of Brothers;
  Black Mirror;
  Breaking Bad;
+ Chernobyl;
  Fringe;
  Game of Thrones;
  Kingdom;
