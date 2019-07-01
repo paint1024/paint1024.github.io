@@ -48,6 +48,7 @@ Drama.
  Stranger Things;
  The Expanse;
  The Haunting of Hill House;
+ The Hot Zone;
  The Strain;
  The Twilight Zone;
  The Umbrella Academy;
