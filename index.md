@@ -3,7 +3,15 @@
 
 ## Code.
 
-Communication; Problem Solving; Web Development; Algorithm; Machine Learning;
+Skill. Communication; Problem Solving; Web Development; Algorithm; Machine Learning;
+Course.
+ [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/);
+ [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/);
+ [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/);
+ [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/);
+ [The Complete Ruby on Rails Developer Course](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/);
+ [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/);
+ [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/);
 
 ## Tour.
 
