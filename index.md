@@ -18,10 +18,6 @@ Course.
 
 America; Cambodia; China; Hong Kong; Japan; Macau; Malaysia; Mauritius; Singapore; South Korea; Thailand; Vietnam;
 
-## Issue.
-
-Democracy; Education; Environment; Health; Human Rights;
-
 ## News.
 
 Live.
