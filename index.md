@@ -3,7 +3,7 @@
 
 ## Code.
 
-Skill. Communication; Problem Solving; Web Development; Algorithm;
+Skill. Learning; Communication; Problem Solving; Web Development; Algorithm;
 
 Course.
  [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/);
@@ -44,6 +44,7 @@ Drama.
  American Vandal;
  Band of Brothers;
  Black Mirror;
+ BoJack Horseman;
  Breaking Bad;
  Chernobyl;
  Fringe;
