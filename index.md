@@ -6,18 +6,18 @@
 Skill. Learning; Communication; Problem Solving; Web Development; Algorithm;
 
 Course.
- [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/);
- [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/); 
+ [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/);
+ [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-business-harvardx-cs50b);
+ [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x);
+ [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript);
+ [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/);
+ [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/);
  [Machine Learning Foundations](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf);
  [Machine Learning Techniques](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2);
- [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/);
  [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/);
- [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x);
- [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-business-harvardx-cs50b);
- [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript);
+ [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/);
  [The Complete Ruby on Rails Developer Course](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/);
- [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/);
- [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/);
+ [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/);
 
 ## Tour.
 
