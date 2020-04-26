@@ -3,7 +3,7 @@
 
 ## Code.
 
-Skill. Learning; Collaboration; Communication; Problem Solving; Web Development; Data Structure; Algorithm;
+Skill. Learning; Collaboration; Communication; Problem Solving; Web Development;
 
 Course.
  [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/);
