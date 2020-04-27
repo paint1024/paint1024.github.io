@@ -3,7 +3,8 @@
 
 ## Code.
 
-Skill. Learning; Collaboration; Communication; Problem Solving; Web Development;
+Skill.
+ Learning; Collaboration; Communication; Problem Solving; Web Development;
 
 Course.
  [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/);
@@ -19,22 +20,22 @@ Course.
  [The Complete Ruby on Rails Developer Course](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/);
  [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/);
 
-## Tour.
+## World.
 
-America; Cambodia; China; Hong Kong; Japan; Macau; Malaysia; Mauritius; Singapore; South Korea; Thailand; Vietnam;
+Tour.
+ America; Cambodia; China; Hong Kong; Japan; Macau; Malaysia; Mauritius; Singapore; South Korea; Thailand; Vietnam;
 
-## News.
+News.
+ Live.
+  [DW;](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
+  [FRANCE 24;](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg) 
+  [Al Jazeera;](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
+  [RT;](https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg)
 
-Live.
- [DW;](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
- [FRANCE 24;](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg) 
- [Al Jazeera;](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
- [RT;](https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg)
-
-Press.
- [The China Post;](https://chinapost.nownews.com)
- [Taipei Times;](http://www.taipeitimes.com)
- [The New York Times;](https://www.nytimes.com)
+ Press.
+  [The China Post;](https://chinapost.nownews.com)
+  [Taipei Times;](http://www.taipeitimes.com)
+  [The New York Times;](https://www.nytimes.com)
 
 ## Series.
 
