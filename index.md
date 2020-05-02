@@ -50,6 +50,7 @@ Drama.
  Chernobyl;
  Fringe;
  Game of Thrones;
+ JinGuang Puppet Show;
  Kingdom;
  Life on Mars;
  Line of Duty;
@@ -72,7 +73,8 @@ Drama.
 
 Anime.
  Attack on Titan;
- Death Note;
+ Death Note; 
+ Demon Slayer: Kimetsu No Yaiba
  Dragon Ball;
  Fushigi Yuugi;
  GANTZ;
