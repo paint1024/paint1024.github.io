@@ -20,6 +20,11 @@ Course.
  [The Complete Ruby on Rails Developer Course](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/);
  [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/);
 
+Todo.
+ [Linux Kernel Internals](http://wiki.csie.ncku.edu.tw/linux/schedule);
+ [Computer Architecture](http://wiki.csie.ncku.edu.tw/arch/schedule);
+ [nand2tetris](https://zh-tw.coursera.org/search?query=Nand2Tetris);
+
 ## World.
 
 Tour.
