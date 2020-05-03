@@ -68,6 +68,7 @@ Drama.
  The Umbrella Academy;
  The Walking Dead;
  The X-Files;
+ Thunderbolt Fantasy
  Wake Up;
  Westworld;
 
