@@ -4,7 +4,7 @@
 ## Code.
 
 Skill.
- Learning; Collaboration; Communication; Problem Solving; Web Development;
+ Learning; Collaboration; Communication; Creativity; Critical Thinking; Problem Solving;
 
 Course.
  [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/);
