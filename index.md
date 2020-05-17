@@ -112,9 +112,7 @@ Emulator.
  Boot Camp / Parallels (OS X);
  DOSBox (DOS);
  VirtualBox (Windows / Linux / OS X);
- 
  MAME (Multi);
- 
  NNNesterJ (FC);
  Dolphin (GC / Wii);
  Project64 (N64);
@@ -122,7 +120,6 @@ Emulator.
  PCSX2 (PS2);
  RPCS3 (PS3);
  Snes9X (SFC);
- 
  Citra (3DS);
  VisualBoyAdvance (GB / GBA);
  DeSmuME (NDS);
