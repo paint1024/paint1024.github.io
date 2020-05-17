@@ -106,17 +106,15 @@ Film. (My Top 5)
  Life is Beautiful;
  The Godfather;
 
-## Emulator.
+## Retro.
 
-PC.
+Emulator.
  Boot Camp / Parallels (OS X);
  DOSBox (DOS);
  VirtualBox (Windows / Linux / OS X);
  
-Arcade.
  MAME (Multi);
  
-Console.
  NNNesterJ (FC);
  Dolphin (GC / Wii);
  Project64 (N64);
@@ -125,9 +123,15 @@ Console.
  RPCS3 (PS3);
  Snes9X (SFC);
  
-Handheld.
  Citra (3DS);
  VisualBoyAdvance (GB / GBA);
  DeSmuME (NDS);
  PPSSPP (PSP);
  Cemu (WIIU);
+
+Game. (My Top 5)
+ Suikoden - Tenmei no Chika;
+ The King of Fighters 2002;
+ Mario Kart;
+ Sudoku;
+ Age of Empires II;
