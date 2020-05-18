@@ -129,6 +129,6 @@ Emulator.
 Game. (My Top 5)
  Suikoden - Tenmei no Chika;
  The King of Fighters 2002;
- Mario Kart;
- Sudoku;
+ Mario Kart 8 Deluxe; 
  Age of Empires II;
+ Sudoku;
