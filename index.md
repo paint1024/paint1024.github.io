@@ -84,6 +84,7 @@ Anime.
  Dragon Ball;
  Fushigi Yuugi;
  GANTZ;
+ Hikaru no Go;
  HUNTER×HUNTER;
  JoJo's Bizarre Adventure;
  KonoSuba: God's Blessing on This Wonderful World!;
