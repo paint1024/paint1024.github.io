@@ -67,6 +67,7 @@ Drama.
  The Expanse;
  The Haunting of Hill House;
  The Hot Zone;
+ The Pacific;
  The Strain;
  The Twilight Zone;
  The Umbrella Academy;
