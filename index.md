@@ -20,6 +20,9 @@ Course.
  [The Complete Ruby on Rails Developer Course](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/);
  [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/);
 
+In Progress.
+ Learning how to play piano;
+
 Todo.
  [Linux Kernel Internals](http://wiki.csie.ncku.edu.tw/linux/schedule);
  [Computer Architecture](http://wiki.csie.ncku.edu.tw/arch/schedule);
