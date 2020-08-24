@@ -51,6 +51,7 @@ Drama.
  American Horror Story;
  American Vandal;
  Band of Brothers;
+ Better Call Saul;
  Black Mirror;
  BoJack Horseman;
  Breaking Bad;
