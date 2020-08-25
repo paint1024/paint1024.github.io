@@ -132,7 +132,7 @@ Emulator.
  Cemu (WIIU);
 
 Game. (My Top 5)
- Suikoden - Tenmei no Chika;
+ Bandit Kings of Ancient China;
  The King of Fighters 2002;
  Mario Kart 8 Deluxe; 
  Age of Empires II;
