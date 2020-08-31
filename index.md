@@ -21,12 +21,12 @@ Course.
  [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/);
 
 In Progress.
- Learning how to play piano;
+ Learning how to play piano; HackerRank;
 
 Todo.
+ [nand2tetris](https://zh-tw.coursera.org/search?query=Nand2Tetris);
  [Linux Kernel Internals](http://wiki.csie.ncku.edu.tw/linux/schedule);
  [Computer Architecture](http://wiki.csie.ncku.edu.tw/arch/schedule);
- [nand2tetris](https://zh-tw.coursera.org/search?query=Nand2Tetris);
 
 ## World.
 
