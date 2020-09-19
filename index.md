@@ -21,7 +21,7 @@ Course.
  [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/);
 
 In Progress.
- Learning how to play piano; LeetCode; HackerRank;
+ Playing piano; LeetCode;
 
 Todo.
  [nand2tetris](https://zh-tw.coursera.org/search?query=Nand2Tetris);
