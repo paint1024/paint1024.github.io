@@ -72,6 +72,7 @@ Drama.
  The Haunting of Hill House;
  The Hot Zone;
  The Pacific;
+ The Queen's Gambit;
  The Strain;
  The Twilight Zone;
  The Umbrella Academy;
