@@ -69,6 +69,7 @@ Drama.
  Prison Break;
  Stranger Things;
  The Expanse;
+ The Haunting of Bly Manor;
  The Haunting of Hill House;
  The Hot Zone;
  The Pacific;
