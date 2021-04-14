@@ -18,6 +18,7 @@ Course.
  [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/);
  [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/);
  [The Complete Ruby on Rails Developer Course](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/);
+ [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/);
  [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/);
 
 In Progress.
