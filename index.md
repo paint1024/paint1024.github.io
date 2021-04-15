@@ -22,7 +22,9 @@ Course.
  [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/);
 
 In Progress.
- Playing piano; [System Design](https://www.interviewbit.com/courses/system-design/); LeetCode;
+ Playing piano;
+ [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/);
+ [System Design](https://www.interviewbit.com/courses/system-design/);
 
 Todo.
  [nand2tetris](https://zh-tw.coursera.org/search?query=Nand2Tetris);
