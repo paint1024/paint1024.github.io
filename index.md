@@ -24,10 +24,10 @@ Taken.
 Ongoing.
  [Simply Piano](https://apps.apple.com/tw/app/simply-piano-%E7%94%B1-joytunes-%E9%96%8B%E7%99%BC/id1019442026);
  [System Design](https://www.interviewbit.com/courses/system-design/);
+ [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/);
 
 Next.
  [nand2tetris](https://zh-tw.coursera.org/search?query=Nand2Tetris);
- [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/);
 
 ## World.
 
