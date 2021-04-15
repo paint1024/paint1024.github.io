@@ -6,7 +6,7 @@
 Skill.
  Learning; Collaboration; Communication; Creativity; Critical Thinking; Problem Solving;
 
-Course.
+Taken.
  [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/);
  [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-business-harvardx-cs50b);
  [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x);
@@ -21,11 +21,11 @@ Course.
  [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/);
  [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/);
 
-In Progress.
+Ongoing.
  [Simply Piano](https://apps.apple.com/tw/app/simply-piano-%E7%94%B1-joytunes-%E9%96%8B%E7%99%BC/id1019442026);
  [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/);
 
-Todo.
+Next.
  [nand2tetris](https://zh-tw.coursera.org/search?query=Nand2Tetris);
  [System Design](https://www.interviewbit.com/courses/system-design/);
 
