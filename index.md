@@ -1,9 +1,7 @@
 # Johann Li
 [LinkedIn](https://www.linkedin.com/in/paint1024/)
 
-## Code.
-
-#### Skill
+## Skill.
  * Learning
  * Collaboration
  * Communication
@@ -11,6 +9,7 @@
  * Critical Thinking
  * Problem Solving
 
+## Code.
 #### Taken
   - Harvard University on edX
     - [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
