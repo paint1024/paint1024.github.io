@@ -4,12 +4,12 @@
 ## Code.
 
 #### Skill
-###### Learning
-###### Collaboration
-###### Communication
-###### Creativity
-###### Critical Thinking
-###### Problem Solving
+ * Learning
+ * Collaboration
+ * Communication
+ * Creativity
+ * Critical Thinking
+ * Problem Solving
 
 #### Taken
   - Harvard University on edX
@@ -58,12 +58,12 @@
   * Vietnam
 
 #### News
-  - Live
+  * Live
     * [FRANCE 24;](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
     * [DW;](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
     * [Al Jazeera;](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
 
-   - Press
+   * Press
      * [Taipei Times;](http://www.taipeitimes.com)
      * [The China Post;](https://chinapost.nownews.com)
      * [The New York Times;](https://www.nytimes.com)
@@ -71,50 +71,41 @@
 ## Series.
 
 #### Drama
-  - English
-    * American Crime
-    * American Horror Story
-    * American Vandal
-    * Band of Brothers
-    * Better Call Saul
-    * Black Mirror
-    * BoJack Horseman
-    * Breaking Bad
-    * Chernobyl
-    * Fringe
-    * Game of Thrones
-    * Life on Mars
-    * Line of Duty
-    * Mars
-    * Mindhunter
-    * Penny Dreadful
-    * Prison Break
-    * Stranger Things
-    * The Expanse
-    * The Haunting of Bly Manor
-    * The Haunting of Hill House
-    * The Hot Zone
-    * The Pacific
-    * The Queen's Gambit
-    * The Strain
-    * The Twilight Zone
-    * The Umbrella Academy
-    * The Walking Dead
-    * The X-Files
-    * Westworld
-
-  - Japanese
-    * Thunderbolt Fantasy
-
-  - Korean
-    * Kingdom
-
-  - Mandarin
-    * Nirvana in Fire
-    * Wake Up
-  
-  - Taiwanese
-    * JinGuang Puppet Show
+  * American Crime
+  * American Horror Story
+  * American Vandal
+  * Band of Brothers
+  * Better Call Saul
+  * Black Mirror
+  * BoJack Horseman
+  * Breaking Bad
+  * Chernobyl
+  * Fringe
+  * Game of Thrones
+  * JinGuang Puppet Show (Taiwanese)
+  * Kingdom (Korean)
+  * Life on Mars
+  * Line of Duty
+  * Mars
+  * Mindhunter
+  * Nirvana in Fire (Mandarin)
+  * Penny Dreadful
+  * Prison Break
+  * Stranger Things
+  * The Expanse
+  * The Haunting of Bly Manor
+  * The Haunting of Hill House
+  * The Hot Zone
+  * The Pacific
+  * The Queen's Gambit
+  * The Strain
+  * The Twilight Zone
+  * The Umbrella Academy
+  * The Walking Dead
+  * The X-Files
+  * Thunderbolt Fantasy (Japanese)
+  * Wake Up (Mandarin)
+  * Westworld
 
 * Anime
   * Attack on Titan
@@ -136,7 +127,7 @@
   * SLAM DUNK
   * Terra Formars
   * The Drifting Classroom
-  * The Ravages of Time
+  * The Ravages of Time (Mandarin)
   * Yu Yu Hakusho
 
 * Film (My Top 5)
