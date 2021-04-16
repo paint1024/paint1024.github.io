@@ -3,7 +3,7 @@
 [LinkedIn](https://www.linkedin.com/in/paint1024/)
 
 
-> ## Skill
+## Skill
 ---
  * Learning
  * Collaboration
@@ -13,7 +13,7 @@
  * Problem Solving
 
 
-> ## Code
+## Code
 ---
 #### Taken
   - Harvard University on edX
@@ -46,7 +46,7 @@
   * [System Design](https://www.interviewbit.com/courses/system-design/)
 
 
-> ## World
+## World
 ---
 #### Tour
   * America
@@ -74,7 +74,7 @@
      * [The New York Times](https://www.nytimes.com)
 
 
-> ## Series.
+## Series.
 ---
 #### Drama
   * American Crime
@@ -144,7 +144,7 @@
   * The Godfather
 
 
-> ## Retro
+## Retro
 ---
 #### Emulator
   * Boot Camp / Parallels (OS X)
