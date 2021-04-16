@@ -1,7 +1,10 @@
 # Johann Li
+---
 [LinkedIn](https://www.linkedin.com/in/paint1024/)
 
-## Skill.
+
+> ## Skill
+---
  * Learning
  * Collaboration
  * Communication
@@ -9,7 +12,9 @@
  * Critical Thinking
  * Problem Solving
 
-## Code.
+
+> ## Code
+---
 #### Taken
   - Harvard University on edX
     - [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
@@ -40,8 +45,9 @@
   * [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
   * [System Design](https://www.interviewbit.com/courses/system-design/)
 
-## World.
 
+> ## World
+---
 #### Tour
   * America
   * Cambodia
@@ -67,8 +73,9 @@
      * [The China Post](https://chinapost.nownews.com)
      * [The New York Times](https://www.nytimes.com)
 
-## Series.
 
+> ## Series.
+---
 #### Drama
   * American Crime
   * American Horror Story
@@ -136,8 +143,9 @@
   * Life is Beautiful
   * The Godfather
 
-## Retro.
 
+> ## Retro
+---
 #### Emulator
   * Boot Camp / Parallels (OS X)
   * DOSBox (DOS)
