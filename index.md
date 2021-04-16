@@ -70,7 +70,7 @@
      * [The New York Times](https://www.nytimes.com)
 
 
-## Series.
+## Series
 #### Drama
   * American Crime
   * American Horror Story
