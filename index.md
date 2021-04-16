@@ -8,8 +8,8 @@ Skill.
 
 Taken.
  [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/);
- [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-business-harvardx-cs50b);
- [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x);
+ [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals);
+ [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x);
  [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript);
  [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/);
  [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/);
@@ -23,10 +23,12 @@ Taken.
 
 Ongoing.
  [Simply Piano](https://apps.apple.com/tw/app/simply-piano-%E7%94%B1-joytunes-%E9%96%8B%E7%99%BC/id1019442026);
- [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/);
+ [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology);
+ [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development);
 
 Next.
  [nand2tetris](https://zh-tw.coursera.org/search?query=Nand2Tetris);
+ [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/);
  [System Design](https://www.interviewbit.com/courses/system-design/);
 
 ## World.
