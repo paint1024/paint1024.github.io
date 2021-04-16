@@ -4,18 +4,18 @@
 ## Code.
 
 #### Skill
-  * Learning
-  * Collaboration
-  * Communication
-  * Creativity
-  * Critical Thinking
-  * Problem Solving
+###### Learning
+###### Collaboration
+###### Communication
+###### Creativity
+###### Critical Thinking
+###### Problem Solving
 
 #### Taken
   - Harvard University on edX
-    * [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
-    * [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-    * [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+    - [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
+    - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+    - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
   - Udemy
     * [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
@@ -36,7 +36,7 @@
   * [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
   * [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)
 
- #### Next
+#### Next
   * [nand2tetris](https://zh-tw.coursera.org/search?query=Nand2Tetris)
   * [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
   * [System Design](https://www.interviewbit.com/courses/system-design/)
