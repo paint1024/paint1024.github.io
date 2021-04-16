@@ -106,7 +106,7 @@
   * Wake Up (Mandarin)
   * Westworld
 
-* Anime
+#### Anime
   * Attack on Titan
   * Death Note
   * Demon Slayer: Kimetsu No Yaiba
@@ -129,7 +129,7 @@
   * The Ravages of Time (Mandarin)
   * Yu Yu Hakusho
 
-* Film (My Top 5)
+#### Film (My Top 5)
   * The Shawshank Redemption
   * The Butterfly Effect
   * Inception
@@ -138,7 +138,7 @@
 
 ## Retro.
 
-* Emulator
+#### Emulator
   * Boot Camp / Parallels (OS X)
   * DOSBox (DOS)
   * VirtualBox (Windows / Linux / OS X)
@@ -156,7 +156,7 @@
   * PPSSPP (PSP)
   * Cemu (WIIU)
 
-* Game (My Top 5)
+#### Game (My Top 5)
   * Bandit Kings of Ancient China
   * The King of Fighters 2002
   * Mario Kart 8 Deluxe
