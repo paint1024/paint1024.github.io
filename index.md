@@ -1,10 +1,8 @@
 # Johann Li
----
 [LinkedIn](https://www.linkedin.com/in/paint1024/)
 
 
 ## Skill
----
  * Learning
  * Collaboration
  * Communication
@@ -14,7 +12,6 @@
 
 
 ## Code
----
 #### Taken
   - Harvard University on edX
     - [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
@@ -47,7 +44,6 @@
 
 
 ## World
----
 #### Tour
   * America
   * Cambodia
@@ -75,7 +71,6 @@
 
 
 ## Series.
----
 #### Drama
   * American Crime
   * American Horror Story
@@ -145,7 +140,6 @@
 
 
 ## Retro
----
 #### Emulator
   * Boot Camp / Parallels (OS X)
   * DOSBox (DOS)
