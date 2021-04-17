@@ -2,23 +2,38 @@
 [LinkedIn](https://www.linkedin.com/in/paint1024/)
 
 
-## Skill
- * Learning
- * Collaboration
- * Communication
- * Creativity
- * Critical Thinking
- * Problem Solving
+## Type
+#### Skill
+  * Learning
+  * Collaboration
+  * Communication
+  * Creativity
+  * Critical Thinking
+  * Problem Solving
+
+#### Film (My Top 5)
+  * The Shawshank Redemption
+  * The Butterfly Effect
+  * Inception
+  * Life is Beautiful
+  * The Godfather
+
+#### Game (My Top 5)
+  * Bandit Kings of Ancient China
+  * The King of Fighters 2002
+  * Mario Kart 8 Deluxe
+  * Age of Empires II
+  * Sudoku
 
 
 ## Code
-#### Taken
-  - Harvard University on edX
+#### Past
+  * Harvard University on edX
     - [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
     - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
     - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
-  - Udemy
+  * on Udemy
     * [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
     * [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
     * [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
@@ -28,16 +43,16 @@
     * [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
     * [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
-  - NTU on Coursera
+  * NTU on Coursera
     * [Machine Learning Foundations](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
     * [Machine Learning Techniques](https://www.coursera.org/learn/machine-learning-techniques)
 
-#### Ongoing
+#### Present
   * [Simply Piano](https://apps.apple.com/tw/app/simply-piano-%E7%94%B1-joytunes-%E9%96%8B%E7%99%BC/id1019442026)
   * [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
   * [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)
 
-#### Next
+#### Future
   * [nand2tetris](https://zh-tw.coursera.org/search?query=Nand2Tetris)
   * [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
   * [System Design](https://www.interviewbit.com/courses/system-design/)
@@ -58,19 +73,18 @@
   * Thailand
   * Vietnam
 
-#### News
-  * Live
-    * [FRANCE 24](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
-    * [DW](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
-    * [Al Jazeera](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
+#### Live
+  * [FRANCE 24](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
+  * [DW](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
+  * [Al Jazeera](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
 
-   * Press
-     * [Taipei Times](http://www.taipeitimes.com)
-     * [The China Post](https://chinapost.nownews.com)
-     * [The New York Times](https://www.nytimes.com)
+#### Press
+  * [Taipei Times](http://www.taipeitimes.com)
+  * [The China Post](https://chinapost.nownews.com)
+  * [The New York Times](https://www.nytimes.com)
 
 
-## Series
+## Pastime
 #### Drama
   * American Crime
   * American Horror Story
@@ -131,15 +145,6 @@
   * The Ravages of Time (Mandarin)
   * Yu Yu Hakusho
 
-#### Film (My Top 5)
-  * The Shawshank Redemption
-  * The Butterfly Effect
-  * Inception
-  * Life is Beautiful
-  * The Godfather
-
-
-## Retro
 #### Emulator
   * Boot Camp / Parallels (OS X)
   * DOSBox (DOS)
@@ -157,10 +162,3 @@
   * DeSmuME (NDS)
   * PPSSPP (PSP)
   * Cemu (WIIU)
-
-#### Game (My Top 5)
-  * Bandit Kings of Ancient China
-  * The King of Fighters 2002
-  * Mario Kart 8 Deluxe
-  * Age of Empires II
-  * Sudoku
