@@ -5,11 +5,10 @@
 ## Type
 #### Skill
   * Learning
-  * Collaboration
-  * Communication
-  * Creativity
-  * Critical Thinking
-  * Problem Solving
+  * Complex problem solving
+  * Collaboration and communication
+  * Critical thinking and reflection
+  * Creativity and imagination
 
 #### Film (My Top 5)
   * The Shawshank Redemption
@@ -122,7 +121,7 @@
   * Wake Up (Mandarin)
   * Westworld
 
-#### Anime
+#### Anime (Japanese)
   * Attack on Titan
   * Death Note
   * Demon Slayer: Kimetsu No Yaiba
