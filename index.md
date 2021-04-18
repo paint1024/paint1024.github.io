@@ -4,11 +4,11 @@
 
 ## Type
 #### Skill
-  * Learning
+  * Lifelong learning habit
   * Complex problem solving
-  * Collaboration and communication
-  * Critical thinking and reflection
-  * Creativity and imagination
+  * Critical thinking & reflection
+  * Collaboration & communication
+  * Creativity & imagination
 
 #### Film (My Top 5)
   * The Shawshank Redemption
@@ -47,7 +47,7 @@
     * [Machine Learning Techniques](https://www.coursera.org/learn/machine-learning-techniques)
 
 #### Present
-  * [Simply Piano](https://apps.apple.com/tw/app/simply-piano-%E7%94%B1-joytunes-%E9%96%8B%E7%99%BC/id1019442026)
+  * [Simply Piano](https://apps.apple.com/tw/app/simply-piano-%E7%94%B1-joytunes-%E9%96%8B%E7%99%BC/id1019442026) (Music)
   * [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
   * [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)
 
