@@ -11,13 +11,13 @@
   * Creativity & imagination
 
 #### My Top 5
-###### Film
+*  Film
     * The Shawshank Redemption
     * The Butterfly Effect
     * Inception
     * Life is Beautiful
     * The Godfather
-###### Game
+* Game
     * Bandit Kings of Ancient China
     * The King of Fighters 2002
     * Mario Kart 8 Deluxe
