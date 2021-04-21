@@ -3,35 +3,35 @@
 
 
 ## Type
-#### Skill
+### Skill
   * Lifelong learning habit
   * Complex problem solving
   * Critical thinking & reflection
   * Collaboration & communication
   * Creativity & imagination
 
-#### My Top 5
-###### Film
-    * The Shawshank Redemption
-    * The Butterfly Effect
-    * Inception
-    * Life is Beautiful
-    * The Godfather
-  * Game
-    * Bandit Kings of Ancient China
-    * The King of Fighters 2002
-    * Mario Kart 8 Deluxe
-    * Age of Empires II
-    * Sudoku
+### My Top 5
+#### Film
+    The Shawshank Redemption
+    The Butterfly Effect
+    Inception
+    Life is Beautiful
+    The Godfather
+#### Game
+    Bandit Kings of Ancient China
+    The King of Fighters 2002
+    Mario Kart 8 Deluxe
+    Age of Empires II
+    Sudoku
 
 
 ## Course
-#### Past
-  * Harvard University x edX
-    * [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
-    * [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-    * [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
-    * [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+### Past
+#### Harvard University x edX
+    [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
+    [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+    [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
+    [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
   * Udemy
     * [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
