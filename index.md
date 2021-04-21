@@ -45,7 +45,7 @@
 
   * NTU on Coursera
     * [Machine Learning Foundations](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
-    * [Machine Learning Techniques](https://www.coursera.org/learn/machine-learning-techniques)
+    * [Machine Learning Techniques](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
 #### Present
   * [Simply Piano](https://apps.apple.com/tw/app/simply-piano-%E7%94%B1-joytunes-%E9%96%8B%E7%99%BC/id1019442026) (Music)
