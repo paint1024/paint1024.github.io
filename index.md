@@ -54,6 +54,8 @@
 
 #### Future
   * [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)
+  * [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
+  * [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
   * [nand2tetris](https://zh-tw.coursera.org/search?query=Nand2Tetris)
   * [System Design](https://www.interviewbit.com/courses/system-design/)
 
