@@ -129,6 +129,7 @@
     * Death Note
     * Demon Slayer: Kimetsu No Yaiba
     * Dragon Ball
+    * Fullmetal Alchemist
     * Fushigi Yuugi
     * GANTZ
     * Hikaru no Go
