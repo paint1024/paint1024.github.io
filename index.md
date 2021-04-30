@@ -34,7 +34,7 @@
     * [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
     * [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
-  * on Udemy
+  * Udemy
     * [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
     * [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
     * [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
