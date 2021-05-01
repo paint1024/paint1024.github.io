@@ -142,6 +142,7 @@
     * Neon Genesis Evangelion
     * ONE PIECE
     * Re:Zero − Starting Life in Another World
+    * Rurouni Kenshin: Meiji Swordsman Romantic Story
     * SLAM DUNK
     * Terra Formars
     * The Drifting Classroom
