@@ -1,5 +1,5 @@
 # Johann Li
-[LinkedIn](https://www.linkedin.com/in/paint1024/)
+LinkedIn [[→]](https://www.linkedin.com/in/paint1024/)
 
 
 ## Type
@@ -26,38 +26,38 @@
 
 
 ## Course
+#### Present
+  * Simply Piano (Music) [[→]](https://apps.apple.com/tw/app/simply-piano-%E7%94%B1-joytunes-%E9%96%8B%E7%99%BC/id1019442026)
+  * CS50's Introduction to Game Development [[→]](https://www.edx.org/course/cs50s-introduction-to-game-development)
+  * Master the Coding Interview: Data Structures + Algorithms [[→]](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)
+
 #### Past
  * Harvard University on edX
-    * [CS50 for Lawyers](https://www.edx.org/course/cs50-for-lawyers)
-    * [CS50's Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
-    * [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-    * [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
-    * [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+    * CS50 for Lawyers [[→]](https://www.edx.org/course/cs50-for-lawyers)
+    * CS50's Computer Science for Business Professionals [[→]](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
+    * CS50's Introduction to Computer Science [[→]](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+    * CS50's Understanding Technology [[→]](https://www.edx.org/course/cs50s-understanding-technology)
+    * CS50's Web Programming with Python and JavaScript [[→]](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
   * Udemy
-    * [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
-    * [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
-    * [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
-    * [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
-    * [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/)
-    * [The Complete Ruby on Rails Developer Course](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/)
-    * [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
-    * [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+    * Complete Python Bootcamp: Go from zero to hero in Python 3 [[→]](https://www.udemy.com/complete-python-bootcamp/)
+    * JavaScript Algorithms and Data Structures Masterclass [[→]](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
+    * JavaScript: Understanding the Weird Parts [[→]](https://www.udemy.com/understand-javascript/)
+    * Python for Data Science and Machine Learning Bootcamp [[→]](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
+    * The Advanced Web Developer Bootcamp [[→]](https://www.udemy.com/the-advanced-web-developer-bootcamp/)
+    * The Complete Ruby on Rails Developer Course [[→]](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/)
+    * The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert [[→]](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
+    * The Web Developer Bootcamp [[→]](https://www.udemy.com/the-web-developer-bootcamp/)
 
   * NTU on Coursera
-    * [Machine Learning Foundations](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
-    * [Machine Learning Techniques](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
-
-#### Present
-  * [Simply Piano](https://apps.apple.com/tw/app/simply-piano-%E7%94%B1-joytunes-%E9%96%8B%E7%99%BC/id1019442026) (Music)
-  * [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
-  * [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)
+    * Machine Learning Foundations [[→]](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
+    * Machine Learning Techniques [[→]](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
 #### Future
-  * [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
-  * [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
-  * [nand2tetris](https://zh-tw.coursera.org/search?query=Nand2Tetris)
-  * [System Design](https://www.interviewbit.com/courses/system-design/)
+  * CS50's Introduction to Artificial Intelligence with Python [[→]](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
+  * CS50's Mobile App Development with React Native [[→]](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
+  * nand2tetris [[→]](https://zh-tw.coursera.org/search?query=Nand2Tetris)
+  * System Design [[→]](https://www.interviewbit.com/courses/system-design/)
 
 
 ## World
@@ -88,7 +88,7 @@
 
 ## Pastime
 #### Series
-  * Drama
+  * English
     * American Crime
     * American Horror Story
     * American Vandal
@@ -100,13 +100,10 @@
     * Chernobyl
     * Fringe
     * Game of Thrones
-    * JinGuang Puppet Show (Taiwanese)
-    * Kingdom (Korean)
     * Life on Mars
     * Line of Duty
     * Mars
     * Mindhunter
-    * Nirvana in Fire (Mandarin)
     * Penny Dreadful
     * Prison Break
     * Stranger Things
@@ -121,10 +118,8 @@
     * The Umbrella Academy
     * The Walking Dead
     * The X-Files
-    * Thunderbolt Fantasy (Japanese)
-    * Wake Up (Mandarin)
     * Westworld
-  * Anime (Japanese)
+  * Japanese
     * Attack on Titan
     * Death Note
     * Demon Slayer: Kimetsu No Yaiba
@@ -146,8 +141,14 @@
     * SLAM DUNK
     * Terra Formars
     * The Drifting Classroom
-    * The Ravages of Time (Mandarin)
+    * Thunderbolt Fantasy
     * Yu Yu Hakusho
+  * Other
+    * JinGuang Puppet Show (Taiwanese)
+    * Kingdom (Korean)
+    * Nirvana in Fire (Mandarin)
+    * The Ravages of Time (Mandarin)
+    * Wake Up (Mandarin)
 
 #### Emulator
   * Boot Camp / Parallels (OS X)
