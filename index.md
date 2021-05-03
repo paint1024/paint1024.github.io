@@ -10,6 +10,11 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
   * Collaboration & communication
   * Creativity & imagination
 
+#### Present
+  * Simply Piano (Music🎹) [➥](https://apps.apple.com/tw/app/simply-piano-%E7%94%B1-joytunes-%E9%96%8B%E7%99%BC/id1019442026)
+  * Master the Coding Interview: Data Structures + Algorithms [➥](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)
+  * CS50's Introduction to Game Development [➥](https://www.edx.org/course/cs50s-introduction-to-game-development)
+
 #### My Top 5
 *  Film
     * The Shawshank Redemption
@@ -26,11 +31,6 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
 
 
 ## Course
-#### Present
-  * Simply Piano (Music) [➥](https://apps.apple.com/tw/app/simply-piano-%E7%94%B1-joytunes-%E9%96%8B%E7%99%BC/id1019442026)
-  * CS50's Introduction to Game Development [➥](https://www.edx.org/course/cs50s-introduction-to-game-development)
-  * Master the Coding Interview: Data Structures + Algorithms [➥](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)
-
 #### Past
  * Harvard University on edX
     * CS50 for Lawyers [➥](https://www.edx.org/course/cs50-for-lawyers)
