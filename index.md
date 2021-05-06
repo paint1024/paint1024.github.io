@@ -18,17 +18,17 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
 
 #### My Top 5
 *  Film
-    * The Shawshank Redemption
-    * The Butterfly Effect
-    * Inception
-    * Life is Beautiful
-    * The Godfather
+    * The Shawshank Redemption (1994)
+    * The Butterfly Effect (2004)
+    * Inception (2010)
+    * Life is Beautiful (1997)
+    * The Godfather (1972)
 * Game
-    * Bandit Kings of Ancient China
-    * The King of Fighters 2002
-    * Mario Kart 8 Deluxe
-    * Age of Empires II
-    * Sudoku
+    * Bandit Kings of Ancient China (FC)
+    * The King of Fighters 2002 (Arcade)
+    * Mario Kart 8 Deluxe (Nintendo Switch)
+    * Sudoku (Android) [➥](https://play.google.com/store/apps/details?id=com.scn.sudokuchamp)
+    * Age of Empires II (Windows)
 
 
 ## Course
