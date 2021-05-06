@@ -24,11 +24,11 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Life is Beautiful (1997)
     * The Godfather (1972)
 * Game
-    * Bandit Kings of Ancient China (FC)
-    * The King of Fighters 2002 (Arcade)
-    * Mario Kart 8 Deluxe (Nintendo Switch)
-    * Sudoku (Android) [➥](https://play.google.com/store/apps/details?id=com.scn.sudokuchamp)
-    * Age of Empires II (Windows)
+    * Bandit Kings of Ancient China (Turn-based strategy)
+    * The King of Fighters 2002 (Fighting)
+    * Mario Kart 8 Deluxe (Kart racing)
+    * Sudoku (Puzzle) [➥](https://play.google.com/store/apps/details?id=com.scn.sudokuchamp)
+    * Age of Empires II (Real-time strategy)
 
 
 ## Course
