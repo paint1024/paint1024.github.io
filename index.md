@@ -121,35 +121,35 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * The X-Files
     * Westworld
   * Japanese
-    * Attack on Titan
-    * Death Note
-    * Demon Slayer: Kimetsu No Yaiba
-    * Dragon Ball
-    * Fullmetal Alchemist
-    * Fushigi Yuugi
-    * GANTZ
-    * Hikaru no Go
-    * HUNTER×HUNTER
-    * JoJo's Bizarre Adventure
-    * KonoSuba: God's Blessing on This Wonderful World!
-    * Legend of the Galactic Heroes
-    * Monster
-    * Naruto
-    * Neon Genesis Evangelion
-    * ONE PIECE
-    * Re:Zero − Starting Life in Another World
-    * Rurouni Kenshin: Meiji Swordsman Romantic Story
-    * SLAM DUNK
-    * Terra Formars
-    * The Drifting Classroom
-    * Thunderbolt Fantasy
-    * Yu Yu Hakusho
+    * Attack on Titan (進撃の巨人)
+    * Death Note (デスノート)
+    * Demon Slayer: Kimetsu No Yaiba (鬼滅の刃)
+    * Dragon Ball (ドラゴンボール)
+    * Fullmetal Alchemist (鋼の錬金術師)
+    * Fushigi Yûgi (ふしぎ遊戯)
+    * GANTZ (ガンツ)
+    * Hikaru no Go (ヒカルの碁)
+    * HUNTER×HUNTER (ハンター×ハンター)
+    * JoJo's Bizarre Adventure (ジョジョの奇妙な冒険)
+    * KonoSuba: God's Blessing on This Wonderful World! (この素晴らしい世界に祝福を!)
+    * Legend of the Galactic Heroes (銀河英雄伝説)
+    * Monster (モンスター)
+    * Naruto (ナルト)
+    * Neon Genesis Evangelion (新世紀エヴァンゲリオン)
+    * ONE PIECE (ワンピース)
+    * Re:Zero − Starting Life in Another World (Re:ゼロから始める異世界生活)
+    * Rurouni Kenshin: Meiji Swordsman Romantic Story (るろうに剣心 -明治剣客浪漫譚-)
+    * SLAM DUNK (スラムダンク)
+    * Terra Formars (テラフォーマーズ)
+    * The Drifting Classroom (漂流教室)
+    * Thunderbolt Fantasy: Sword Travels in the East (Thunderbolt Fantasy 東離劍遊紀)
+    * Yu Yu Hakusho (幽☆遊☆白書)
   * Other
-    * JinGuang Puppet Show (Taiwanese)
-    * Kingdom (Korean)
-    * Nirvana in Fire (Mandarin)
-    * The Ravages of Time (Mandarin)
-    * Wake Up (Mandarin)
+    * JinGuang Puppet Show (金光布袋戲)
+    * Kingdom (屍戰朝鮮)
+    * Nirvana in Fire (瑯琊榜)
+    * The Ravages of Time (火鳳燎原)
+    * Wake Up (麻醉風暴)
 
 #### Emulator
   * Boot Camp / Parallels (OS X)
