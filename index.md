@@ -145,9 +145,11 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Thunderbolt Fantasy: Sword Travels in the East (Thunderbolt Fantasy 東離劍遊紀)
     * Yu Yu Hakusho (幽☆遊☆白書)
   * Other
+    * Fated to Love You (命中注定我愛你)
     * JinGuang Puppet Show (金光布袋戲)
     * Kingdom (屍戰朝鮮)
     * Nirvana in Fire (瑯琊榜)
+    * Smiling Pasta (微笑PASTA)
     * The Ravages of Time (火鳳燎原)
     * Wake Up (麻醉風暴)
 
