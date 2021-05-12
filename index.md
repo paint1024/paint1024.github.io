@@ -15,7 +15,6 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Simply Piano [➥](https://apps.apple.com/tw/app/simply-piano-%E7%94%B1-joytunes-%E9%96%8B%E7%99%BC/id1019442026)
 *  Code ⌨️
     * Master the Coding Interview: Data Structures + Algorithms [➥](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)
-    * CS50's Introduction to Game Development [➥](https://www.edx.org/course/cs50s-introduction-to-game-development)
 *  TV series 📺
     * Steins;Gate
     * Line of Duty
@@ -41,6 +40,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * CS50 for Lawyers [➥](https://www.edx.org/course/cs50-for-lawyers)
     * CS50's Computer Science for Business Professionals [➥](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
     * CS50's Introduction to Computer Science [➥](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+    * CS50's Introduction to Game Development [➥](https://www.edx.org/course/cs50s-introduction-to-game-development)
     * CS50's Understanding Technology [➥](https://www.edx.org/course/cs50s-understanding-technology)
     * CS50's Web Programming with Python and JavaScript [➥](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
