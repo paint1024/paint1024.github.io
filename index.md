@@ -36,7 +36,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
 
 ## Course
 #### Past
- * Harvard University on edX
+ * Harvard University
     * CS50 for Lawyers [➥](https://www.edx.org/course/cs50-for-lawyers)
     * CS50's Computer Science for Business Professionals [➥](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
     * CS50's Introduction to Computer Science [➥](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
@@ -54,7 +54,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert [➥](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
     * The Web Developer Bootcamp [➥](https://www.udemy.com/the-web-developer-bootcamp/)
 
-  * NTU on Coursera
+  * NTU
     * Machine Learning Foundations [➥](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
     * Machine Learning Techniques [➥](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
