@@ -18,7 +18,6 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * CS50's Introduction to Artificial Intelligence with Python [➥](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 *  TV series 📺
     * Steins;Gate
-    * Line of Duty
 
 #### My Top 5
 *  Film
