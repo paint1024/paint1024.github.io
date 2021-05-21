@@ -1,5 +1,8 @@
-# Johann [➥](https://paint1024.github.io/)
+# Howdy, nice to meet you!
 
-# Olivia
+## Individual
+  * Johann [➥](https://paint1024.github.io/)
+  * Olivia
 
-# Hsin Studio [➥](https://www.facebook.com/HsinDance/)
+## Group
+  * Hsin Studio [➥](https://www.facebook.com/HsinDance/)
