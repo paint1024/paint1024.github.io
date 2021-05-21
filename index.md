@@ -1,4 +1,4 @@
-# Johann Li
+# Johann [ˈjoːhan] Li
 LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
 
 
