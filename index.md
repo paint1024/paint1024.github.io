@@ -89,6 +89,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Public Television Service [➥](https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA)
     * Formosa TV [➥](https://www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA)
     * Sanlih E-Television [➥](https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw)
+    * iNEWS [➥](https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA)
   * Press
     * Taipei Times [➥](http://www.taipeitimes.com)
     * The China Post [➥](https://chinapost.nownews.com)
