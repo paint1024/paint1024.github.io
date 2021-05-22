@@ -11,22 +11,22 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
   * Creativity & imagination
 
 #### Ongoing
-*  Music 🎹
+ *  Music 🎹
     * Simply Piano [➥](https://apps.apple.com/tw/app/simply-piano-%E7%94%B1-joytunes-%E9%96%8B%E7%99%BC/id1019442026)
-*  Code ⌨️
+ *  Code ⌨️
     * Master the Coding Interview: Data Structures + Algorithms [➥](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)
     * CS50's Introduction to Artificial Intelligence with Python [➥](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
-*  TV series 📺
+ *  TV series 📺
     * Steins;Gate
 
 #### My Top 5
-*  Film
+ *  Film
     * The Shawshank Redemption (1994)
     * The Butterfly Effect (2004)
     * Inception (2010)
     * Life is Beautiful (1997)
     * The Godfather (1972)
-* Game
+ * Game
     * Bandit Kings of Ancient China (Turn-based strategy)
     * The King of Fighters 2002 (Fighting)
     * Mario Kart 8 Deluxe (Kart racing)
@@ -44,7 +44,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * CS50's Understanding Technology [➥](https://www.edx.org/course/cs50s-understanding-technology)
     * CS50's Web Programming with Python and JavaScript [➥](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
-  * Udemy
+ * Udemy
     * Complete Python Bootcamp: Go from zero to hero in Python 3 [➥](https://www.udemy.com/complete-python-bootcamp/)
     * JavaScript Algorithms and Data Structures Masterclass [➥](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
     * JavaScript: Understanding the Weird Parts [➥](https://www.udemy.com/understand-javascript/)
@@ -54,7 +54,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert [➥](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
     * The Web Developer Bootcamp [➥](https://www.udemy.com/the-web-developer-bootcamp/)
 
-  * NTU
+ * NTU
     * Machine Learning Foundations [➥](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
     * Machine Learning Techniques [➥](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
@@ -84,11 +84,12 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * FRANCE 24 [➥](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
     * DW [➥](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
     * Al Jazeera [➥](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
- * Taiwan
+    * Sky [➥](https://www.youtube.com/user/skynews)
+  * Taiwan
     * Public Television Service [➥](https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA)
     * Formosa TV [➥](https://www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA)
     * Sanlih E-Television [➥](https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw)
-* Press
+  * Press
     * Taipei Times [➥](http://www.taipeitimes.com)
     * The China Post [➥](https://chinapost.nownews.com)
     * The New York Times [➥](https://www.nytimes.com)
