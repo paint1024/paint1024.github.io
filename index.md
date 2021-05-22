@@ -95,7 +95,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * The New York Times [➥](https://www.nytimes.com)
 
 #### Radio
-  * Radio Garden – Explore live radio by rotating the globe [➥](http://radio.garden/)
+  * Radio Garden [➥](http://radio.garden/)
 
 
 ## Pastime
