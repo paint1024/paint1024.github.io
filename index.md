@@ -17,7 +17,8 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Master the Coding Interview: Data Structures + Algorithms [➥](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)
     * CS50's Introduction to Artificial Intelligence with Python [➥](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
  *  TV series 📺
-    * Steins;Gate
+    * The Walking Dead S10
+    * Steins;Gate 0
 
 #### My Top 5
  *  Film
@@ -179,7 +180,6 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Stranger Things S4
     * The Expanse S6
     * The Umbrella Academy S3
-    * The Walking Dead S10
     * Thunderbolt Fantasy S3
     * Westworld S4
 
