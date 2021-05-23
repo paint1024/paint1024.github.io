@@ -166,6 +166,22 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Smiling Pasta (微笑PASTA)
     * The Ravages of Time (火鳳燎原)
     * Wake Up (麻醉風暴)
+  * Queued
+    * American Horror Story S10
+    * American Vandal S3
+    * Black Mirror S6
+    * From The New World (新世界より)
+    * Homeland S1
+    * Kingdom S3
+    * Line of duty S7
+    * Mars S3
+    * Mindhunter S3
+    * Stranger Things S4
+    * The Expanse S6
+    * The Umbrella Academy S3
+    * The Walking Dead S10
+    * Thunderbolt Fantasy S3
+    * Westworld S4
 
 #### Emulator
   * Boot Camp / Parallels (macOS)
