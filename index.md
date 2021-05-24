@@ -170,13 +170,16 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
   * Queuing
     * American Horror Story S10
     * American Vandal S3
+    * Attack on Titan (進撃の巨人) S5
     * Black Mirror S6
     * From The New World (新世界より) S1
     * Homeland S1
+    * JoJo's Bizarre Adventure (ジョジョの奇妙な冒険) S6
     * Kingdom S3
     * Line of duty S7
     * Mars S3
     * Mindhunter S3
+    * Re:Zero − Starting Life in Another World (Re:ゼロから始める異世界生活) S3
     * Stranger Things S4
     * The Expanse S6
     * The Umbrella Academy S3
