@@ -167,11 +167,11 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Smiling Pasta (微笑PASTA)
     * The Ravages of Time (火鳳燎原)
     * Wake Up (麻醉風暴)
-  * Queued
+  * Queuing
     * American Horror Story S10
     * American Vandal S3
     * Black Mirror S6
-    * From The New World (新世界より)
+    * From The New World (新世界より) S1
     * Homeland S1
     * Kingdom S3
     * Line of duty S7
