@@ -20,7 +20,7 @@ Pick whatever you want.
   * 巴哈姆特動畫瘋 [➥](https://ani.gamer.com.tw/)
   * 最專業的學日文網站，能聽、能寫、能說、還能唱，以及豐富的線上測驗功能 [➥](https://www.jpmarumaru.com/tw/index.asp)
 
-#### Speech
+#### Voice
   * Yahoo奇摩字典搜尋 [➥](https://tw.dictionary.search.yahoo.com/)
   * 最專業的學日文網站，能聽、能寫、能說、還能唱，以及豐富的線上測驗功能 [➥](https://www.jpmarumaru.com/tw/index.asp)
 
