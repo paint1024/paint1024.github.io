@@ -8,7 +8,6 @@ See where do you want to go.
 
 #### Olivia
   * LinkedIn [➥](https://www.linkedin.com/in/dance0508/)
-
-#### Hsin Studio (欣學堂)
-  * Web [➥](https://hsinstudio.carrd.co/)
-  * Facebook [➥](https://www.facebook.com/HsinDance/)
+  * Hsin Studio (欣學堂)
+    * Web [➥](https://hsinstudio.carrd.co/)
+    * Page [➥](https://www.facebook.com/HsinDance/)
