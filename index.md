@@ -18,7 +18,6 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * CS50's Introduction to Artificial Intelligence with Python [➥](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
  *  TV series 📺
     * The Walking Dead S10
-    * Steins;Gate 0
 
 #### My Top 5
  *  Film
@@ -174,7 +173,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Black Mirror S6
     * From The New World (新世界より) S1
     * Homeland S1
-    * JoJo's Bizarre Adventure (ジョジョの奇妙な冒険) S6
+    * JoJo's Bizarre Adventure (ジョジョの奇妙な冒険) S8
     * Kingdom S3
     * Line of duty S7
     * Mars S3
