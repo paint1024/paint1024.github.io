@@ -13,8 +13,9 @@ Pick whatever you want.
 #### Balance
   * 價格比價？比個夠 BigGo 商品搜尋引擎 [➥](https://biggo.com.tw/)
   * 美元走勢圖-台幣對美元走勢圖 [➥](https://www.taiwanrate.org/exchange_rate_chart.php?c=USD)
+  * 【桃園市桃園區實價登錄地圖| 桃園市桃園區房價查詢】 - 591實價登錄 [➥](https://market.591.com.tw/?regionId=6&sectionId=73)
 
-#### Tale
+#### Spacetime
   * 劇迷TV - 最新1080P超清影視線上看 [➥](https://jumi.tv/)
   * Documentaries - watch free online documentaries [➥](https://ihavenotv.com/)
   * 巴哈姆特動畫瘋 [➥](https://ani.gamer.com.tw/)
@@ -23,7 +24,7 @@ Pick whatever you want.
   * Yahoo奇摩字典搜尋 [➥](https://tw.dictionary.search.yahoo.com/)
   * 最專業的學日文網站，能聽、能寫、能說、還能唱，以及豐富的線上測驗功能 [➥](https://www.jpmarumaru.com/tw/index.asp)
 
-#### Stuff
+#### Thing
   * VirusTotal [➥](https://www.virustotal.com/gui/)
   * FC Portables: Download Portable Software and ISO! [➥](https://www.fcportables.com/)
   * MajorGeeks [➥](https://www.majorgeeks.com/)
