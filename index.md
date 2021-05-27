@@ -178,7 +178,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Line of duty S7
     * Mars S3
     * Mindhunter S3
-    * ONE PIECE (ワンピース) 20th 和之國篇
+    * ONE PIECE (ワンピース) S20
     * Re:Zero − Starting Life in Another World (Re:ゼロから始める異世界生活) S3
     * Stranger Things S4
     * The Expanse S6
