@@ -2,13 +2,15 @@
 See where do you want to go.
 
 #### Johann
-  * Visit my LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
-  * More about me [➥](https://paint1024.github.io/)
-  * Handy tool kit [➥](https://paint1024.github.io/kit)
+  * LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
+  * More [➥](https://paint1024.github.io/)
+  * Kit [➥](https://paint1024.github.io/kit)
 
 #### Olivia
-  * Visit my LinkedIn [➥](https://www.linkedin.com/in/dance0508/)
+  * LinkedIn [➥](https://www.linkedin.com/in/dance0508/)
 
 #### Hsin Studio (欣學堂)
-  * Official Website [➥](https://hsinstudio.carrd.co/)
-  * Facebook Page [➥](https://www.facebook.com/HsinDance/)
+  * Website [➥](https://hsinstudio.carrd.co/)
+  * Facebook [➥](https://www.facebook.com/HsinDance/)
+  * Instagram [➥](https://www.instagram.com/hsinstudio/)
+  * YouTube [➥](https://www.youtube.com/channel/UCEESVeNkkMVImEP3Y308_vQ)
