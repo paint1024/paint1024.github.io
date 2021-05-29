@@ -18,6 +18,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * CS50's Introduction to Artificial Intelligence with Python [➥](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
  *  TV series 📺
     * The Walking Dead S10
+    * Junji Ito Collection (伊藤潤二『コレクション』)
 
 #### My Top 5
  *  Film
