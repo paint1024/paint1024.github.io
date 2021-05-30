@@ -168,6 +168,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * The Ravages of Time (火鳳燎原)
     * Wake Up (麻醉風暴)
   * Queuing
+    * Adventure Time S1
     * American Horror Story S10
     * American Vandal S3
     * Attack on Titan (進撃の巨人) S5
@@ -181,6 +182,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Mindhunter S3
     * ONE PIECE (ワンピース) S20
     * Re:Zero − Starting Life in Another World (Re:ゼロから始める異世界生活) S3
+    * Rick and Morty S1
     * Stranger Things S4
     * The Expanse S6
     * The Umbrella Academy S3
