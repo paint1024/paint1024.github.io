@@ -23,6 +23,7 @@ Pick whatever you want.
 #### Voice
   * Yahoo奇摩字典搜尋 [➥](https://tw.dictionary.search.yahoo.com/)
   * 最專業的學日文網站，能聽、能寫、能說、還能唱，以及豐富的線上測驗功能 [➥](https://www.jpmarumaru.com/tw/index.asp)
+  * 歌詞検索サイト うたてん [➥](https://utaten.com/)
 
 #### Thing
   * VirusTotal [➥](https://www.virustotal.com/gui/)
