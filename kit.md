@@ -16,14 +16,15 @@ Pick whatever you want.
   * 591實價登錄 [➥](https://market.591.com.tw/?regionId=6&sectionId=73)
 
 #### Multiverse
+  * PttChrome [➥](https://iamchucky.github.io/PttChrome/?ssh=true)
   * 劇迷TV [➥](https://jumi.tv/)
   * Documentaries [➥](https://ihavenotv.com/)
   * 巴哈姆特動畫瘋 [➥](https://ani.gamer.com.tw/)
 
 #### Voice
   * Yahoo奇摩字典搜尋 [➥](https://tw.dictionary.search.yahoo.com/)
-  * 最專業的學日文網站，能聽、能寫、能說、還能唱，以及豐富的線上測驗功能 [➥](https://www.jpmarumaru.com/tw/index.asp)
-  * 歌詞検索サイト うたてん [➥](https://utaten.com/)
+  * MARUMARU [➥](https://www.jpmarumaru.com/tw/index.asp)
+  * うたてん [➥](https://utaten.com/)
 
 #### Thing
   * VirusTotal [➥](https://www.virustotal.com/gui/)
