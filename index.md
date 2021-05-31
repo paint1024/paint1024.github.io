@@ -18,7 +18,6 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * CS50's Introduction to Artificial Intelligence with Python [➥](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
  *  TV series 📺
     * The Walking Dead S10
-    * Junji Ito Collection (伊藤潤二『コレクション』)
 
 #### My Top 5
  *  Film
@@ -145,6 +144,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Hikaru no Go (ヒカルの碁)
     * HUNTER×HUNTER (ハンター×ハンター)
     * JoJo's Bizarre Adventure (ジョジョの奇妙な冒険)
+    * Junji Ito Collection (伊藤潤二『コレクション』)
     * KonoSuba: God's Blessing on This Wonderful World! (この素晴らしい世界に祝福を!)
     * Legend of the Galactic Heroes (銀河英雄伝説)
     * Mobile Suit Gundam Wing (新機動戦記ガンダムW)
