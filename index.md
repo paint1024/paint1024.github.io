@@ -161,6 +161,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Thunderbolt Fantasy: Sword Travels in the East (Thunderbolt Fantasy 東離劍遊紀)
     * Yu Yu Hakusho (幽☆遊☆白書)
   * Other
+    * A Step into the Past (尋秦記)
     * Fated to Love You (命中注定我愛你)
     * JinGuang Puppet Show (金光布袋戲)
     * Kingdom (屍戰朝鮮)
