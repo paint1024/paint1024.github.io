@@ -17,7 +17,9 @@ Pick whatever you want.
 
 #### Multiverse
   * PttChrome [➥](https://iamchucky.github.io/PttChrome/?ssh=true)
-  * 劇迷TV [➥](https://jumi.tv/)
+  * 劇迷
+    * Gimy 劇迷 [➥](https://gimy.app/)
+    * 劇迷TV [➥](https://jumi.tv/)
   * Documentaries [➥](https://ihavenotv.com/)
   * 巴哈姆特動畫瘋 [➥](https://ani.gamer.com.tw/)
 
