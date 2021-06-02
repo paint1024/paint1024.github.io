@@ -5,7 +5,7 @@ or rendezvous, that is the question:
   * LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
   * More [➥](https://paint1024.github.io/)
   * Kit [➥](https://paint1024.github.io/kit)
-  * News [➥](https://www.youtube.com/playlist?list=PLUGMoxeGcyVVugPMd21xMemfeCZqPQF6d)
+  * News [➥](https://www.youtube.com/watch?v=ED4QXd5xAco&list=PLUGMoxeGcyVVugPMd21xMemfeCZqPQF6d)
 
 #### Olivia
   * LinkedIn [➥](https://www.linkedin.com/in/dance0508/)
