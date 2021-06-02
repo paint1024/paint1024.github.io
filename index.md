@@ -115,6 +115,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Game of Thrones
     * Life on Mars
     * Line of Duty
+    * Love, Death & Robots
     * Mars
     * Mindhunter
     * Penny Dreadful
@@ -180,6 +181,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * JoJo's Bizarre Adventure (ジョジョの奇妙な冒険) S8
     * Kingdom S3
     * Line of duty S7
+    * Love, Death & Robots S2
     * Mars S3
     * Mindhunter S3
     * ONE PIECE (ワンピース) S20
