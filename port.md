@@ -3,9 +3,8 @@ or rendezvous, that is the question:
 
 #### Johann
   * LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
-  * More [➥](https://paint1024.github.io/)
+  * Website [➥](https://johannli.carrd.co/)
   * Kit [➥](https://paint1024.github.io/kit)
-  * News [➥](https://www.youtube.com/watch?v=ED4QXd5xAco&list=PLUGMoxeGcyVVugPMd21xMemfeCZqPQF6d)
 
 #### Olivia
   * LinkedIn [➥](https://www.linkedin.com/in/dance0508/)
