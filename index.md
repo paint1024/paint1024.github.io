@@ -4,11 +4,11 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
 
 ## Type
 #### Skill
-  * Lifelong learning habit
-  * Complex problem solving
-  * Critical thinking & reflection
-  * Collaboration & communication
-  * Creativity & imagination
+ * Lifelong learning habit
+ * Complex problem solving
+ * Critical thinking & reflection
+ * Collaboration & communication
+ * Creativity & imagination
 
 #### Ongoing
  *  Music 🎹
@@ -61,49 +61,49 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Machine Learning Techniques [➥](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
 #### Future
-  * CS50's Mobile App Development with React Native [➥](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
-  * nand2tetris [➥](https://zh-tw.coursera.org/search?query=Nand2Tetris)
-  * System Design [➥](https://www.interviewbit.com/courses/system-design/)
+ * CS50's Mobile App Development with React Native [➥](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
+ * nand2tetris [➥](https://zh-tw.coursera.org/search?query=Nand2Tetris)
+ * System Design [➥](https://www.interviewbit.com/courses/system-design/)
 
 
 ## World
 #### Tour
-  * America
-  * Cambodia
-  * China
-  * Hong Kong
-  * Japan
-  * Macau
-  * Malaysia
-  * Mauritius
-  * Singapore
-  * South Korea
-  * Thailand
-  * Vietnam
+ * America
+ * Cambodia
+ * China
+ * Hong Kong
+ * Japan
+ * Macau
+ * Malaysia
+ * Mauritius
+ * Singapore
+ * South Korea
+ * Thailand
+ * Vietnam
 
 #### News
-  * International
+ * International
     * FRANCE 24 [➥](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
     * DW [➥](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
     * Al Jazeera [➥](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
     * Sky [➥](https://www.youtube.com/user/skynews)
-  * Domestic
+ * Domestic
     * Public Television Service [➥](https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA)
     * Formosa TV [➥](https://www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA)
     * Sanlih E-Television [➥](https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw)
     * iNEWS [➥](https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA)
-  * Press
+ * Press
     * Taipei Times [➥](http://www.taipeitimes.com)
     * The China Post [➥](https://chinapost.nownews.com)
     * The New York Times [➥](https://www.nytimes.com)
 
 #### Radio
-  * Radio Garden [➥](http://radio.garden/)
+ * Radio Garden [➥](http://radio.garden/)
 
 
 ## Pastime
 #### Series
-  * English
+ * English
     * American Crime
     * American Horror Story
     * American Vandal
@@ -135,7 +135,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * The Walking Dead
     * The X-Files
     * Westworld
-  * Japanese
+ * Japanese
     * Attack on Titan (進撃の巨人)
     * Death Note (デスノート)
     * Demon Slayer: Kimetsu No Yaiba (鬼滅の刃)
@@ -163,7 +163,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * The Drifting Classroom (漂流教室)
     * Thunderbolt Fantasy: Sword Travels in the East (Thunderbolt Fantasy 東離劍遊紀)
     * Yu Yu Hakusho (幽☆遊☆白書)
-  * Other
+ * Other
     * A Step into the Past (尋秦記)
     * Fated to Love You (命中注定我愛你)
     * JinGuang Puppet Show (金光布袋戲)
@@ -172,7 +172,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Smiling Pasta (微笑PASTA)
     * The Ravages of Time (火鳳燎原)
     * Wake Up (麻醉風暴)
-  * Queuing
+ * Queuing
     * Adventure Time S1
     * American Horror Story S10
     * American Vandal S3
@@ -194,19 +194,19 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Westworld S4
 
 #### Emulator
-  * Boot Camp / Parallels (macOS)
-  * DOSBox (DOS)
-  * VirtualBox (Windows / Linux / macOS)
-  * MAME (Arcade)
-  * NNNesterJ (Family Computer)
-  * Dolphin (Nintendo GameCube / Wii)
-  * Project64 (Nintendo 64)
-  * pSX (PlayStation)
-  * PCSX2 (PlayStation 2)
-  * RPCS3 (PlayStation 3)
-  * Snes9X (Super Famicom)
-  * Citra (Nintendo 3DS)
-  * VisualBoyAdvance (Game Boy / Game Boy Color / Game Boy Advance)
-  * DeSmuME (Nintendo DS)
-  * PPSSPP (PlayStation Portable)
-  * Cemu (Wii U)
+ * Boot Camp / Parallels (macOS)
+ * DOSBox (DOS)
+ * VirtualBox (Windows / Linux / macOS)
+ * MAME (Arcade)
+ * NNNesterJ (Family Computer)
+ * Dolphin (Nintendo GameCube / Wii)
+ * Project64 (Nintendo 64)
+ * pSX (PlayStation)
+ * PCSX2 (PlayStation 2)
+ * RPCS3 (PlayStation 3)
+ * Snes9X (Super Famicom)
+ * Citra (Nintendo 3DS)
+ * VisualBoyAdvance (Game Boy / Game Boy Color / Game Boy Advance)
+ * DeSmuME (Nintendo DS)
+ * PPSSPP (PlayStation Portable)
+ * Cemu (Wii U)
