@@ -82,12 +82,12 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
   * Vietnam
 
 #### News
-  * Live
+  * International
     * FRANCE 24 [➥](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
     * DW [➥](https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg)
     * Al Jazeera [➥](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
     * Sky [➥](https://www.youtube.com/user/skynews)
-  * Taiwan
+  * Domestic
     * Public Television Service [➥](https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA)
     * Formosa TV [➥](https://www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA)
     * Sanlih E-Television [➥](https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw)
