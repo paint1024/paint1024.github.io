@@ -1,5 +1,6 @@
 # Johann [ˈjoːhan] Li
-LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
+* LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
+* Website [➥](https://johannli.carrd.co/)
 
 
 ## Type
