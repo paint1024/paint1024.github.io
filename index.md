@@ -17,7 +17,9 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Master the Coding Interview: Data Structures + Algorithms [➥](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)
     * CS50's Introduction to Artificial Intelligence with Python [➥](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
  *  TV series 📺
-    * The Walking Dead S10
+    * From The New World (新世界より) S1
+    * Love, Death & Robots S2
+    * Thunderbolt Fantasy S3
 
 #### My Top 5
  *  Film
@@ -176,12 +178,10 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * American Vandal S3
     * Attack on Titan (進撃の巨人) S5
     * Black Mirror S6
-    * From The New World (新世界より) S1
     * Homeland S1
     * JoJo's Bizarre Adventure (ジョジョの奇妙な冒険) S8
     * Kingdom S3
     * Line of duty S7
-    * Love, Death & Robots S2
     * Mars S3
     * Mindhunter S3
     * ONE PIECE (ワンピース) S20
@@ -190,7 +190,7 @@ LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
     * Stranger Things S4
     * The Expanse S6
     * The Umbrella Academy S3
-    * Thunderbolt Fantasy S3
+    * The Walking Dead S11
     * Westworld S4
 
 #### Emulator
