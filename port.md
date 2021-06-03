@@ -4,7 +4,6 @@ or rendezvous, that is the question:
 #### Johann
   * LinkedIn [➥](https://www.linkedin.com/in/paint1024/)
   * Website [➥](https://johannli.carrd.co/)
-  * Kit [➥](https://paint1024.github.io/kit)
 
 #### Olivia
   * LinkedIn [➥](https://www.linkedin.com/in/dance0508/)
