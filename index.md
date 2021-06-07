@@ -10,6 +10,6 @@ or rendezvous, that is the question:
 
 #### Hsin Studio (欣學堂)
   * Website [➥](https://hsinst.crd.co/)
-  * Facebook [➥](https://www.facebook.com/HsinDance/)
-  * Instagram [➥](https://www.instagram.com/hsinstudio/)
+  * Facebook [➥](https://www.facebook.com/hsinst.tw/)
+  * Instagram [➥](https://www.instagram.com/hsinst/)
   * YouTube [➥](https://www.youtube.com/channel/UCEESVeNkkMVImEP3Y308_vQ)
